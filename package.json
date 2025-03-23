@@ -1,7 +1,7 @@
 {
-  "name": "wsAudioServer",
+  "name": "wsaudioserver",
   "version": "1.0.0",
-  "description": "",
+  "description": "\"# remote-clients\" \r \"# remote-clients\"",
   "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,5 +12,15 @@
   "dependencies": {
     "express": "^4.18.2",
     "ws": "^7.4.6"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamriddhDiwan/remote-clients.git"
+  },
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/SamriddhDiwan/remote-clients/issues"
+  },
+  "homepage": "https://github.com/SamriddhDiwan/remote-clients#readme"
 }
