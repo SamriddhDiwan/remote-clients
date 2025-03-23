@@ -1,0 +1,8 @@
+{
+    "name": "my-websocket-client",
+    "compatibility_date": "2025-03-23",
+    "assets": {
+      "directory": "./public"
+    }
+  }
+  
